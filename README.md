@@ -7,7 +7,7 @@ This is a part of [**You Flutter Me**](https://gdsc.community.dev/events/details
 
 This is the final output of mobile portfolio app:
 
-![Alt Text](./assets/gifs/portfolio.gif)
+<img src="./assets/gifs/portfolio.gif" width="200" height="auto" />
 
 ## Getting Started
 
